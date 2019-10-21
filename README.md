@@ -1,6 +1,6 @@
 # GenderCheck
 
-Check the gender of any name. Check it out [here](https://github.com/xtrp/gendercheck/)!
+Check the gender of any name. Check it out [here](https://xtrp.github.io/gendercheck/)!
 
 ![GenderCheck demo](site_demo.gif)
 
