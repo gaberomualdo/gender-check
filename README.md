@@ -10,4 +10,4 @@ HTML, CSS, vanilla JavaScript. Uses asynchronous client-side AJAX requests to ge
 
 ## License and Credits
 
-Built by Fred Adams, licensed under the MIT License. See LICENSE.txt for more info.
+Built by [Gabriel Romualdo](https://xtrp.io/), licensed under the MIT License. See LICENSE.txt for more info.
